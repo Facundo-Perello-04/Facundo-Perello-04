@@ -23,5 +23,6 @@ Soy estudiante de 3° año de Desarrollo de Software en la Universidad del Aconc
   Sistema de gestión de inventario para negocios. Permite el registro de clientes, historial de compras, actualización de stock y generación de reportes de ganancias.
 - 🌐 **[Proyecto tutorcito](https://github.com/Tutorcito/Tutorcito)** - *Next.js 15, Supabase*
   Proyecto integrador. Plataforma e-commerce completa para conectar estudiantes universitarios con tutores. Incluye autenticación, pasarela de pagos (MercadoPago), sistema de reservas y diseño UI avanzado.
+  - ⚛️ **[Proyecto en Next.js](https://github.com/Fede-Martorell/App-Division-de-Gastos)** - App web de  division de gastos
 ### 📫 Cómo contactarme:
 - [Mi perfil de LinkedIn](www.linkedin.com/in/facundo-perelló-a13312249)
