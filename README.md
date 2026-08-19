@@ -17,6 +17,7 @@ Soy estudiante de 3° año de Desarrollo de Software en la Universidad del Aconc
 - 🎮 **[Juego 4 en línea](https://github.com/Facundo-Perello-04/Juego-4-en-linea)** - Proyecto de lógica y desarrollo construido con Java.
 - 🌐 **[Los Pollos Hermanos](https://github.com/Facundo-Perello-04/Los-Pollos-Hermanos-PF-Perello)** - Proyecto de maquetado web.
 - 🌐 **[Los Pollos Hermanos Ecommerce](https://github.com/Facundo-Perello-04/Proyecto-Ecommerce-js-CoderHouse)** - Proyecto Ecommerce con javascript
+  
 ### 🤝 Proyectos Grupales y Colaboraciones:
 - 💻 **[proyecto-encriptacion](https://github.com/JoaquinCortezHub/proyecto-encriptacion)** -Programa que encripta palabras dinámicamente utilizando sustitución en código ASCII, manejo avanzado de arreglos y validación de estructuras.
 - 💻 **[sistema-manejo-stock-java](https://github.com/JoaquinCortezHub/sistema-manejo-stock-java)** -*Java*
@@ -24,5 +25,7 @@ Soy estudiante de 3° año de Desarrollo de Software en la Universidad del Aconc
 - 🌐 **[Proyecto tutorcito](https://github.com/Tutorcito/Tutorcito)** - *Next.js 15, Supabase*
   Proyecto integrador. Plataforma e-commerce completa para conectar estudiantes universitarios con tutores. Incluye autenticación, pasarela de pagos (MercadoPago), sistema de reservas y diseño UI avanzado.
 - ⚛️ **[Proyecto en Next.js](https://github.com/Fede-Martorell/App-Division-de-Gastos)** - App web de  division de gastos
+- 🎮 **[Sector 7 - Space Shooter](https://github.com/Facundo-Perello-04/PygameJuegoFinalProgA)** -Proyecto integrador universitario: Videojuego arcade 2D de nave espacial construido con Python y PyGame.
+- **[Proyecto Vampire Control](https://github.com/Facundo-Perello-04/App-De-Consumos-Energeticos)** -Proyecto integrador IoT & Full-Stack para monitoreo en tiempo real y corte autónomo de consumo eléctrico pasivo con ESP32, Next.js y Supabase.
 ### 📫 Cómo contactarme:
 - [Mi perfil de LinkedIn](www.linkedin.com/in/facundo-perelló-a13312249)
