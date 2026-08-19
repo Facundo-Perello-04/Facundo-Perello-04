@@ -9,8 +9,8 @@ Soy estudiante de 3° año de Desarrollo de Software en la Universidad del Aconc
 - 🌱 Actualmente construyendo proyectos y practicando con **JavaScript** y **React**.
 
 ### 🛠️ Mi Stack Tecnológico:
-- **Web Front-end:** HTML, CSS, JavaScript, React
-- **Lenguajes académicos:** C++, Java
+- **Web Front-end:** HTML, CSS, JavaScript, React, Next.js
+- **Lenguajes académicos:** C++, Java, Python, SQL
 
 ### 🚀 Mis Proyectos:
 - ⚛️ **[Proyecto React](https://github.com/Facundo-Perello-04/Proyecto-Perello-React)** - Práctica de desarrollo web con componentes.
@@ -26,6 +26,6 @@ Soy estudiante de 3° año de Desarrollo de Software en la Universidad del Aconc
   Proyecto integrador. Plataforma e-commerce completa para conectar estudiantes universitarios con tutores. Incluye autenticación, pasarela de pagos (MercadoPago), sistema de reservas y diseño UI avanzado.
 - ⚛️ **[Proyecto en Next.js](https://github.com/Fede-Martorell/App-Division-de-Gastos)** - App web de  division de gastos
 - 🎮 **[Sector 7 - Space Shooter](https://github.com/Facundo-Perello-04/PygameJuegoFinalProgA)** -Proyecto integrador universitario: Videojuego arcade 2D de nave espacial construido con Python y PyGame.
-- ⚡ **[Proyecto Vampire Control](https://github.com/Facundo-Perello-04/App-De-Consumos-Energeticos)** -Proyecto integrador IoT & Full-Stack para monitoreo en tiempo real y corte autónomo de consumo eléctrico pasivo con ESP32, Next.js y Supabase.
+- ⚡ **[Proyecto Vampire Control](https://github.com/Facundo-Perello-04/App-De-Consumos-Energeticos)** -(EN DESARROLLO) Proyecto integrador IoT & Full-Stack para monitoreo en tiempo real y corte autónomo de consumo eléctrico pasivo con ESP32, Next.js y Supabase.
 ### 📫 Cómo contactarme:
 - [Mi perfil de LinkedIn](www.linkedin.com/in/facundo-perelló-a13312249)
