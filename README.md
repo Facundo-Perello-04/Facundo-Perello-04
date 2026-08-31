@@ -18,7 +18,7 @@ Soy estudiante de 3° año de Desarrollo de Software en la Universidad del Aconc
 - 🌐 **[Los Pollos Hermanos](https://github.com/Facundo-Perello-04/Los-Pollos-Hermanos-PF-Perello)** - Proyecto de maquetado web.
 - 🌐 **[Los Pollos Hermanos Ecommerce](https://github.com/Facundo-Perello-04/Proyecto-Ecommerce-js-CoderHouse)** - Proyecto Ecommerce con javascript
   
-### 🤝 Proyectos Grupales y Colaboraciones:
+### 🤝 Proyectos Academicos grupales:
 - 💻 **[proyecto-encriptacion](https://github.com/JoaquinCortezHub/proyecto-encriptacion)** -Programa que encripta palabras dinámicamente utilizando sustitución en código ASCII, manejo avanzado de arreglos y validación de estructuras.
 - 💻 **[sistema-manejo-stock-java](https://github.com/JoaquinCortezHub/sistema-manejo-stock-java)** -*Java*
   Sistema de gestión de inventario para negocios. Permite el registro de clientes, historial de compras, actualización de stock y generación de reportes de ganancias.
